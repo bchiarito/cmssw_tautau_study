@@ -1,0 +1,7 @@
+Job_*/
+MultiJob_*/
+backend_histo_cmssw/
+backend_atto_cmssw/
+*.pdf
+x509up*
+*.root
